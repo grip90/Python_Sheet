@@ -4,8 +4,8 @@ To open an application/file, we usually do it by enclosing `os.startfile('filena
 
 But if we want to pass parameters,
 
-`args = ["full_program_path.exe","arg1","arg2"]
+`args = ["full_program_path.exe","arg1","arg2"]`
 
-subprocess.call(args)`
+`subprocess.call(args)`
 
 ***
